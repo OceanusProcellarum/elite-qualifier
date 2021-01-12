@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+There's a description here apparently
 
 ## Table of Contents
 
