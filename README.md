@@ -29,4 +29,10 @@ To test the project:
   1. Run the test
   2. Check the result
 
+## Test Report
+
+To report the test:
+
+  1. Report the test :)
+
 ### Any optional sections
