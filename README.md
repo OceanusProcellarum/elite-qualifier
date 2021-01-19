@@ -28,6 +28,8 @@ To test the project:
 
   1. Run the test
   2. Check the result
+  3. Report the test
+  4. Create the Ultimate Section
 
 ## Test Report
 
@@ -38,5 +40,11 @@ To report the test:
   3. Hello
   4. Nope
  
+
+## The Ultimate Section
+
+There is no other section greater than this.
+It cannot be bested in combat.
+All hail this specific section.
 
 ### Any optional sections
