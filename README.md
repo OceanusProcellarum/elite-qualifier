@@ -34,5 +34,9 @@ To test the project:
 To report the test:
 
   1. Report the test :)
+  2. Hi
+  3. Hello
+  4. Nope
+ 
 
 ### Any optional sections
